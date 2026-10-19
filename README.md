@@ -2,7 +2,7 @@
 
 A lightweight, zero-window macOS menu bar utility designed to prevent Bluetooth speakers from aggressively entering sleep mode.
 
-**Created by:** [Yury Alikin](https://github.com/yury8alikin)
+**Created by:** [Yury Alikin](https://github.com/yuryalikin)
 
 ## 🎯 Who is this for?
 This tool is for macOS users who use Bluetooth speakers or soundbars that automatically disconnect or go into a deep power-saving sleep after a short period of audio silence. 
